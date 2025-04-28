@@ -1,8 +1,6 @@
 # Navigator
 
-<h1>Simple Navigator</h1>
-
-<h2>Step for run</h2>
+<h5>Step for run</h5>
 
 step 1 : Download the ZIP file. <br>
 step 2 : Open folder in VS code. <br>
